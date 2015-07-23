@@ -64,7 +64,6 @@ public class ProjectEuler11 {
 
         }
 
-        System.out.println(largest);
         return largest;
     }
 
@@ -80,7 +79,6 @@ public class ProjectEuler11 {
             }
         }
 
-        System.out.println(largest);
         return largest;
     }
 
@@ -96,7 +94,6 @@ public class ProjectEuler11 {
             }
         }
 
-        System.out.println(largest);
         return largest;
     }
 
@@ -112,7 +109,6 @@ public class ProjectEuler11 {
             }
         }
 
-        System.out.println(largest);
         return largest;
     }
 
